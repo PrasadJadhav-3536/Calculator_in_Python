@@ -1,4 +1,4 @@
-# CodeClause-Calculator_in_Python
+# Calculator_in_Python
 
 Creating a voice input calculator using Python involves combining the power of speech recognition with basic arithmetic operations. The goal is to allow users to speak mathematical expressions, and the program will recognize the speech, evaluate the expression, and provide the result.
 
